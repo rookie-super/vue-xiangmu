@@ -386,15 +386,15 @@
         line-height: 48px;
         text-align: center;
         border-radius: 7px;
-        border: 1px solid #ffca28;
-        background-color: #ffca28;
-        background-image: linear-gradient(#ffca28,#ffb300);
+        border: 1px solid red;
+        background-color: red;
+        background-image: linear-gradient(red,red);
         color: #fff;
         cursor: pointer;
     }
     .item-box .blue-title-btn:hover{
         transition: all .15s ease-out;
-        box-shadow: inset 0 1px 1px #ffb300, inset 0 0 2px #ffb300, inset 0 -2px 3px #ffb300, inset 0 0 100px rgba(48,77,147,.4);
+        box-shadow: inset 0 1px 1px red, inset 0 0 2px red, inset 0 -2px 3px red, inset 0 0 100px rgba(48,77,147,.4);
     }
     .item-box .blue-title-btn a, .item-box .green-title-btn a{
         color: #fff;

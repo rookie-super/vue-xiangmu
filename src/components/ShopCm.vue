@@ -226,21 +226,21 @@
         background-image: linear-gradient(#f6f6f6,#ededed);
     }
     .sku-box .item .item-btns .item-blue-btn{
-        background-color: #ffca28;
-        background-image: linear-gradient(#ffca28,#ffb300);
-        border: 1px solid #ffca28;
+        background-color: red;
+        background-image: linear-gradient(red,red);
+        border: 1px solid red;
         color: #fff;
         margin-left: 10px;
     }
     .sku-box .item .item-btns .item-blue-btn:hover{
-        border: 1px solid #ffb300;
-        background-color: #ffb300;
-        background-image: linear-gradient(#ffca28,#ffb300);
+        border: 1px solid red;
+        background-color: red;
+        background-image: linear-gradient(red,red);
     }
     .sku-box .item .item-btns .item-blue-btn:active{
-        border: 1px solid #ffb300;
-        background-color: #ffb300;
-        background-image: linear-gradient(#ffca28,#ffb300);
+        border: 1px solid red;
+        background-color: red;
+        background-image: linear-gradient(red,red);
     }
     .sku-box .item .item-price{
         font-family: Arial;

@@ -65,7 +65,8 @@
     .single-products-catagory .hover-content .line {
         width: 80px;
         height: 3px;
-        background-color: #fbb710;
+        background-color: red;
+        background-color: red;
         display: block;
         margin-bottom: 15px; }
     .single-products-catagory .hover-content p {

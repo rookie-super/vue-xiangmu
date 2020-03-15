@@ -577,9 +577,9 @@ export default {
 }
 .cart-box .big-main-btn{
   float: right;
-    background: #ffeb3b;
-    background: -webkit-linear-gradient(#ffeb3b,#fdd835);
-    background: linear-gradient(#ffeb3b,#fdd835);
+    background: red;
+    background: -webkit-linear-gradient(red,red);
+    background: linear-gradient(red,red);
 }
 .cart-box .big-main-btn.jianguo-blue-main-btn.disabled-btn{
   background: #A9A9A9;
@@ -590,17 +590,17 @@ export default {
   display: block;
     padding: 2px 0;
     border-radius: 9px;
-    background: #fdd835;
-    background: linear-gradient(#fdd835,#fdd835);
-    box-shadow: inset 0 1px 3px #fdd835, inset 0 0 2px #627dca, inset 0 -2px 3px #fdd835;
-    text-shadow: #fdd835 0 -1px 0;
+    background: red;
+    background: linear-gradient(red,red);
+    box-shadow: inset 0 1px 3px red, inset 0 0 2px #627dca, inset 0 -2px 3px red;
+    text-shadow: red 0 -1px 0;
     cursor: pointer;
     color: #fff;
     transition: all .3s ease;
 }
 .cart-box .jianguo-blue-main-btn a{
   background: #6C94F3;
-    background: linear-gradient(#fdd835,#fdd835);
+    background: linear-gradient(red,red);
     box-shadow: none;
     text-shadow: none;
     color: #FFF;

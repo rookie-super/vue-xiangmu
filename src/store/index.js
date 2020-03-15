@@ -77,7 +77,7 @@ export default new Vuex.Store({
         getPayMentData(state, data) {
                 let diZhi = {};
                 for (let i = 0; i < state.AddressData.length; i++) {
-                    if (state.AddressData[i].id === data.id) {
+                    if (state.AddressData[i].id == data.id) {
                         diZhi = state.AddressData[i]
                     }
                 }

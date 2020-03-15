@@ -243,7 +243,7 @@
     }
     .checkout .address-common-table .address-item-list li.selected-address-item{
         background: #FFF;
-        border-color: #fdd835;
+        border-color: red;
     }
     .checkout .address-common-table .address-item-list .address-item{
         padding: 19px 14px 0 19px;
@@ -273,7 +273,7 @@
         right: 17px;
         top: 19px;
         font-size: 24px;
-        color: #fdd835;
+        color: red;
     }
     .checkout .address-common-table .operation-section{
         visibility: hidden;
@@ -370,9 +370,9 @@
         display: block;
         width: 8px;
         height: 8px;
-        background: #fdd835;
-        background: linear-gradient(#fdd835,#fdd835);
-        border: 1px solid #fdd835;
+        background: red;
+        background: linear-gradient(red,red);
+        border: 1px solid red;
         border-radius: 10px;
         box-shadow: 0 1px 2px rgba(0,0,0,.2);
     }
@@ -577,8 +577,8 @@
         padding: 1px;
         margin: 0 auto;
         border-radius: 6px;
-        background: #fdd835;
-        background: linear-gradient(#fdd835,#fdd835);
+        background: red;
+        background: linear-gradient(red,red);
         text-align: center;
         text-shadow: rgba(255,255,255,.496094) 0 1px 0;
         font-family: 'Microsoft Yahei','微软雅黑','PingFang SC',sans-serif;
@@ -589,8 +589,8 @@
         user-select: none;
     }
     .jianguo-blue-main-btn{
-        background: #fdd835;
-        background: linear-gradient(#fdd835,#fdd835);
+        background: red;
+        background: linear-gradient(red,red);
         box-shadow: none;
     }
     .checkout .big-main-btn{
@@ -606,9 +606,9 @@
         border-radius: 6px;
     }
     .jianguo-blue-main-btn a{
-        background: linear-gradient(#fdd835,#fdd835);
-        box-shadow: inset 0 1px 2px #fdd835;
-        text-shadow: 0 -1px 0 #fdd835;
+        background: linear-gradient(red,red);
+        box-shadow: inset 0 1px 2px red;
+        text-shadow: 0 -1px 0 red;
         color: #FFF;
         transition: all .3s ease;
     }
@@ -619,7 +619,7 @@
         font-size: 16px;
     }
     .jianguo-blue-main-btn:hover a{
-        box-shadow: inset 0 1px 1px #fdd835, inset 0 0 2px #fdd835, inset 0 -2px 3px#fdd835, inset 0 0 100px rgba(48,77,147,.4);
+        box-shadow: inset 0 1px 1px red, inset 0 0 2px red, inset 0 -2px 3px red, inset 0 0 100px rgba(48,77,147,.4);
     }
     .page-order-checkout .last-payment .prices{
         padding: 0 40px;
@@ -839,7 +839,7 @@
     #pop .form-focus-item{
         z-index: 1;
         opacity: 1;
-        border: 1px solid #fdd835;
+        border: 1px solid red;
     }
     #pop .module-form-row div.select-item{
         width: auto;
@@ -887,8 +887,8 @@
     }
     #pop .dialog-blue-btn{
         padding: 1px;
-        background: #fdd835;
-        background: linear-gradient(#fdd835,#fdd835);
+        background: red;
+        background: linear-gradient(red,red);
         border-radius: 6px;
         text-align: center;
         color: #FFF;
@@ -905,11 +905,11 @@
     #pop .dialog-blue-btn a{
         display: block;
         padding: 2px 0;
-        background: #fdd835;
-        background: linear-gradient(#fdd835,#fdd835);
+        background: red;
+        background: linear-gradient(red,red);
         border-radius: 5px;
-        box-shadow: inset 0 1px 2px #fdd835;
-        text-shadow: 0 -1px 0 #fdd835;
+        box-shadow: inset 0 1px 2px red;
+        text-shadow: 0 -1px 0 red;
         color: #FFF;
     }
     #pop .big-main-btn a{
