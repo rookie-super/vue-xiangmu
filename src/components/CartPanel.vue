@@ -627,9 +627,8 @@ export default {
     .nav-aside .nav-cart-btn {
         display: block;
         height: 38px;
-        background: #688fe8;
-        background: linear-gradient(#688fe8, #5079e1);
-        border: 1px solid #5c81e3;
+        background: red;
+        border: 1px solid red;
         border-radius: 6px;
         box-shadow: inset 0 1px 0 rgba(255, 255, 255, .2), 0 1px 3px rgba(0, 0, 0, .2);
         line-height: 38px;

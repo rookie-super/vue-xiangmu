@@ -3,7 +3,7 @@
         <div class="content page-order-payment">
             <div class="gray-box clear">
                 <div class="title">
-                    <h2>Payment Order</h2>
+                    <h2>支付页</h2>
                 </div>
                 <div class="box-inner order-info">
                     <h3>订单提交成功</h3>
@@ -99,7 +99,7 @@
     .gray-box .title h2{
         font-size: 18px;
         font-weight: 400;
-        color: #626262;
+        color: red;
     }
     .page-order-payment .order-info{
         padding: 60px 0 55px;
@@ -136,7 +136,7 @@
         box-sizing: border-box;
     }
     .jianguo-blue-main-btn{
-        background: linear-gradient(#6383C6,#4262AF);
+        background: red;
         box-shadow: none;
     }
     .blue-main-btn, .gray-main-btn, .jianguo-blue-main-btn{
@@ -144,7 +144,7 @@
         padding: 1px;
         margin: 0 auto;
         border-radius: 6px;
-        background: linear-gradient(#5598c9,#2a6da2);
+        background: red;
         text-align: center;
         text-shadow: rgba(255,255,255,.496094) 0 1px 0;
         font-family: 'Microsoft Yahei','微软雅黑','PingFang SC',sans-serif;
@@ -162,9 +162,9 @@
         display: block;
         border-radius: 6px;
         cursor: pointer;
-        background: linear-gradient(#6F97E5,#527ED9);
-        box-shadow: inset 0 1px 2px #7EA1E8;
-        text-shadow: 0 -1px 0 #4F70B3;
+        background: red;
+        box-shadow: inset 0 1px 2px red;
+        text-shadow: 0 -1px 0 red;
         color: #FFF;
         transition: all .3s ease;
     }
@@ -175,7 +175,7 @@
         font-size: 16px;
     }
     .jianguo-blue-main-btn:hover a{
-        box-shadow: inset 0 1px 1px #7696DE, inset 0 0 2px #627DCA, inset 0 -2px 3px #5A77C7, inset 0 0 100px rgba(48,77,147,.4);
+        box-shadow: inset 0 1px 1px red, inset 0 0 2px red, inset 0 -2px 3px red, inset 0 0 100px red;
     }
     .page-order-payment .prices{
         float: right;

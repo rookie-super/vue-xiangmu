@@ -215,7 +215,7 @@
     .checkout .gray-box .title h2{
         font-size: 18px;
         font-weight: 400;
-        color: #626262;
+        color: red;
     }
     .checkout .gray-box .columns-title h2{
         float: left;
@@ -461,7 +461,7 @@
         border-bottom: 1px solid #DBDBDB;
         line-height: 38px;
         font-size: 12px;
-        color: #666;
+        color: red;
     }
     .checkout .ui-goods-cart .cart-table-title{
         padding: 0 0 0 29px;
@@ -888,7 +888,6 @@
     #pop .dialog-blue-btn{
         padding: 1px;
         background: red;
-        background: linear-gradient(red,red);
         border-radius: 6px;
         text-align: center;
         color: #FFF;
@@ -906,7 +905,6 @@
         display: block;
         padding: 2px 0;
         background: red;
-        background: linear-gradient(red,red);
         border-radius: 5px;
         box-shadow: inset 0 1px 2px red;
         text-shadow: 0 -1px 0 red;
